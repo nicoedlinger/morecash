@@ -1,16 +1,30 @@
 # morecash
 Du hast gerade die Morecash Config Files heruntergeladen.
-
+ 
 Ziehe die .zip Datei auf den Desktop.
 Rechtsklick auf die .zip Datei - Alle extrahieren...
+  _Ein neuer Ordner wurde jetzt auf dem Desktop erstellt.
+   
+Öffne den Ordner und installiere WinRar mit dem "NINITE WinRar Installer.exe".
+Nebenbei kann auch der Teamviewer und Firefox installiert werden.
+ 
+Wenn WinRar installiert ist kannst du alle .zip / config.z0.. und installer.z0.. markieren, rechtsklicken und auf "Dateien entpacken..." klicken.
 
-Unten auf den Button "Fertig stellen" klicken.
+Danach auf "Ok". (Falls irgendwelche Fehler kommen einfach auf den Button "Schließen" klicken.
 
-unten links auf das windows zeichen drücken
-ausführen eingeben
+Du kannst die Dateien .zip / config.z0.. und installer.z0 die du bereits entpackt hast, nun löschen.
+ 
+ 
+Bitte öffne jetzt den neuen Ordner der erstellt wurde als du die Dateien entpackt hast.
 
-dann öffnet sich das ausführen fenster 
-eingeben: firefox.exe -p
+Entpacke wieder alle .zip Dateien und lösche sie anschließend.
 
-"Profil erstellen" - "Weiter" - "Ordner wählen" - den Ordner "0oy3dznv.morecash-conf" welcher mit dem Download mitgekommen ist auswählen - "Fertigstellen" - das Proful das erstellt wurde auswählen und den Hacken "Gewähltes Profil beim Start..." anhacken.
+Jetzt unten links auf das Windows Zeichen drücken und ausführen eingeben
+
+dann öffnet sich das ausführen Fenster in welches du: firefox.exe -p ,eingibst.
+
+Jetzt öffnet sich das "Firefox Profile Fenster".
+
+Klicke: "Profil erstellen" - "Weiter" - oben statt Standard Benutzer, Morecash eingeben - und "Fertigstellen" - das Profil das erstellt wurde auswählen und den Hacken "Gewähltes Profil beim Start..." anhacken.
+
 Dann Firefox starten & Fertig! :)
