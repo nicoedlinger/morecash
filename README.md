@@ -1,0 +1,2 @@
+# morecash
+Morecash Config FIles
