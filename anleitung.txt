@@ -1,0 +1,16 @@
+# morecash
+Du hast gerade die Morecash Config Files heruntergeladen.
+
+Ziehe die .zip Datei auf den Desktop.
+Rechtsklick auf die .zip Datei - Alle extrahieren...
+
+Unten auf den Button "Fertig stellen" klicken.
+
+unten links auf das windows zeichen drücken
+ausführen eingeben
+
+dann öffnet sich das ausführen fenster 
+eingeben: firefox.exe -p
+
+"Profil erstellen" - "Weiter" - "Ordner wählen" - den Ordner "0oy3dznv.morecash-conf" welcher mit dem Download mitgekommen ist auswählen - "Fertigstellen" - das Proful das erstellt wurde auswählen und den Hacken "Gewähltes Profil beim Start..." anhacken.
+Dann Firefox starten & Fertig! :)
